@@ -8,9 +8,9 @@ Skript, který vypočítá průměrnou výměru parcel v obci Kroměříž [5882
 - Načte z extrahovaných složek SHP soubory "PARCELY_KN_P" a vypočítá průměrnou výměru všech parcel.
 - Výsledek uloží do nově vytvořeného CSV souboru ve formátu [kód_obce;průměrná_výměra]
 ### Použité knihovny:
+- geopandas - [instalováno podle tohoto návodu](https://geopandas.org/en/stable/getting_started/install.html)
 - urllib.request
 - zipfile
-- geopandas
 - os
 - sys
 - shutil
