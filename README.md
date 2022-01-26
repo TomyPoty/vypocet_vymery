@@ -16,3 +16,5 @@ Skript, který vypočítá průměrnou výměru parcel v obci Kroměříž [5882
 - shutil
 ### Python verze:
 - Python 3.9.5 (Conda version kvůli knihovně Geopandas)
+
+#### Autor: Tomáš Potočiar
